@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="026b66d7-b071-4827-8446-71843eff96cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZmeKTvTz2uCwwFGcqRI6Qyf0nb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/librairy/rest-1.1-tests.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="L" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tetris.L" />
+      <module name="Tetris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Tetris" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tetris.Tetris" />
+      <module name="Tetris" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.L" />
+      <item itemvalue="Application.Tetris" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tetris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="026b66d7-b071-4827-8446-71843eff96cd" name="Default Changelist" comment="" />
+      <created>1585448632908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585448632908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1586399737256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1586399737256" />
+    <state x="400" y="34" key="#Main" timestamp="1586487066632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="34" key="#Main/0.0.1366.728@0.0.1366.728" timestamp="1586487066632" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1585873255141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1585873255141" />
+    <state x="275" y="23" key="#Template" timestamp="1586189300084">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Template/0.0.1366.728@0.0.1366.728" timestamp="1586189300084" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586533607447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586533607447" />
+    <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1586550415021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586550415021" />
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586533606580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586533606580" />
+    <state x="596" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586552500331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="596" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1586552500331" />
+    <state x="546" y="119" key="FileChooserDialogImpl" timestamp="1586479059438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586479059438" />
+    <state width="1367" height="179" key="GridCell.Tab.0.bottom" timestamp="1586553562632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586553562632" />
+    <state width="1367" height="179" key="GridCell.Tab.0.center" timestamp="1586553562632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586553562632" />
+    <state width="1367" height="179" key="GridCell.Tab.0.left" timestamp="1586553562631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586553562631" />
+    <state width="1367" height="179" key="GridCell.Tab.0.right" timestamp="1586553562632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586553562632" />
+    <state width="1367" height="231" key="GridCell.Tab.1.bottom" timestamp="1586487305369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="231" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586487305369" />
+    <state width="1367" height="231" key="GridCell.Tab.1.center" timestamp="1586487305369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="231" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586487305369" />
+    <state width="1367" height="231" key="GridCell.Tab.1.left" timestamp="1586487305368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="231" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586487305368" />
+    <state width="1367" height="231" key="GridCell.Tab.1.right" timestamp="1586487305369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="231" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586487305369" />
+    <state x="246" y="0" key="SettingsEditor" timestamp="1586552504653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="246" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586552504653" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586532140438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586532140438" />
+    <state x="326" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585463140578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1585463140578" />
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586401803472">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1586401803472" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586177635726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1586177635726" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1586459173066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586459173066" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586550988764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586550988764" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tetris$Main.ic" NAME="Main Coverage Results" MODIFIED="1585847237290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
